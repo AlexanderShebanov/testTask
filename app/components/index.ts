@@ -1,0 +1,1 @@
+export { ExtendedText } from './ExtendedText';
